@@ -4,15 +4,7 @@ Temel kodlarla basit bir mantık kullanarak oluşturduğum 2. el eşya satış p
 
 ```diff
 
-- text in red
-
-+ text in green
-
-! text in orange
-
-# text in gray
-
-@@ text in purple (and bold)@@
+! Firebase'e bağlanmak için json dosyanızı projede gerekli yere koymanız gerekmektedir
 
 ```
 
