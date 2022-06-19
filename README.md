@@ -2,7 +2,19 @@
 
 Temel kodlarla basit bir mantık kullanarak oluşturduğum 2. el eşya satış platformu.
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=a) `#f03c15`
+```diff
+
+- text in red
+
++ text in green
+
+! text in orange
+
+# text in gray
+
+@@ text in purple (and bold)@@
+
+```
 
 Firebase'e bağlanmak için json dosyanızı projede gerekli yere koymanız gerekmektedir.
 
