@@ -1,6 +1,6 @@
-# proje
+# 2. el eşya satış platformu flutter
 
-A new Flutter project.
+Temel kodlarla basit bir mantık kullanarak oluşturduğum 2. el eşya satış platformu
 
 ## Getting Started
 
