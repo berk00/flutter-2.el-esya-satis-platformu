@@ -6,7 +6,7 @@ Temel kodlarla basit bir mantık kullanarak oluşturduğum 2. el eşya satış p
 
 ! Firebase'e bağlanmak için json dosyanızı projede gerekli yere koymanız gerekmektedir
 
-_ Youtube videosu: https://youtu.be/8RNpUO4gZcQ
+- Youtube videosu: https://youtu.be/8RNpUO4gZcQ
 ```
 
 
