@@ -4,7 +4,7 @@ Temel kodlarla basit bir mantık kullanarak oluşturduğum 2. el eşya satış p
 
 ```diff
 
-! Firebase'e bağlanmak için json dosyanızı projede gerekli yere koymanız gerekmektedir
+! Firebase'e(Şuanda benim Firebaseime bağlanmakta) bağlanmak için json dosyanızı projede gerekli yere koymanız gerekmektedir
 
 - Youtube videosu: https://youtu.be/8RNpUO4gZcQ
 
